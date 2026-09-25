@@ -1,0 +1,7 @@
+check sum security 
+
+CHKzpfTNQ1Zr3WVimdVZhtZiB8FTriCkqRu
+
+tanzania-apps
+CLIENT_ID= IDujds6UHnkt9nQC0tZafnalN7336NYZ
+API_KEY= SKu2UxyWC0jKUx5kt1Q9Zh1DRQZsehsEVTTeXvFpUM
